@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Task-2-1.txt" />
+  </Folder>
   <Project Path="Task-2-1-en/Task-2-1-en.vbproj" />
   <Project Path="Task-2-1-ru/Task-2-1-ru.vbproj" />
 </Solution>
