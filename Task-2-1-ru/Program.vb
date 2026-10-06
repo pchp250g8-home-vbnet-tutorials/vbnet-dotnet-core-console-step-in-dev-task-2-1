@@ -44,7 +44,7 @@ Module Program
             UInteger.TryParse(Console.ReadLine(), n) ' ввод следющей порции данных
         Loop
         ' Вывод информации на экран.
-        Console.WriteLine($"Длина интервала, где все показания безопасны: {m}")
+        Console.WriteLine($"Длина интервала, где все показания безопасны: {max_len}")
         Console.Read() ' Задержка вывода на экран до нажатия клавиши "Ввод"
     End Sub
 End Module

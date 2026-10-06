@@ -44,7 +44,7 @@ Module Program
             UInteger.TryParse(Console.ReadLine(), n) ' Input the next data point
         Loop
         ' Display information on the screen.
-        Console.WriteLine($"Length of the interval where all readings are safe: {m}")
+        Console.WriteLine($"Length of the interval where all readings are safe: {max_len}")
         Console.Read() ' Pauses screen output until the "Enter" key is pressed
     End Sub
 End Module
